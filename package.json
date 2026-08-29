@@ -1,0 +1,1 @@
+{"name":"ai-customer-support-assistant","version":"1.0.0","private":true,"scripts":{"test":"pytest","start":"python run.py"},"license":"UNLICENSED"}
